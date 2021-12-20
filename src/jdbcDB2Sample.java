@@ -1,4 +1,4 @@
-\\Project File for CPSC 304 101
+//Project File for CPSC 304 101
 import java.sql.*; 
  
 class jdbcDB2Sample 
